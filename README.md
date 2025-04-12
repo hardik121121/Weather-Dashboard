@@ -3,7 +3,7 @@
 
 A full-stack weather dashboard built with the MERN stack (MongoDB, Express.js, React, Node.js) that allows users to search for real-time weather conditions by city using the OpenWeatherMap API.
 
-Check it out here: https://hardik-weather-dashboard.netlify.appAC
+Check it out here: https://hardik-weather-dashboard.netlify.app/
 
 ---
 
