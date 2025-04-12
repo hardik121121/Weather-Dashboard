@@ -1,0 +1,38 @@
+/* Set body font setting */
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+
+/* set the title banner dashboard and forecast card color */
+.text-center {
+  background-color: rgb(87, 80, 117);
+  color: white;
+}
+
+/* set side of current weather */
+.card-header {
+  font-size: 36px;
+}
+
+/* Set the width to 100% to match search button width */
+.list-group.searchHistory .cityButton {
+  width: 100%;
+}
+
+/* set the search button color */
+.btn.btn-primary {
+  background-color: rgb(87, 80, 117);
+  color: white;
+  border: none;
+}
+
+/* set the 5-day forecast card color */
+.card-0,
+.card-1,
+.card-2,
+.card-3,
+.card-4 {
+  background-color: rgb(87, 80, 117);
+  color: white;
+}
